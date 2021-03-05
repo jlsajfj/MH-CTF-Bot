@@ -1,0 +1,11 @@
+{
+  "name": "mh-ctf-bot",
+  "version": "1.0.0",
+  "description": "Just helping me set up roles and channels",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jlsajfj",
+  "license": "ISC"
+}
